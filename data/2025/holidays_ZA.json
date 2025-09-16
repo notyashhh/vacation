@@ -1,0 +1,170 @@
+[
+  {
+    "date": "2025-01-01",
+    "localName": "New Year's Day",
+    "name": "New Year's Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-03-21",
+    "localName": "Human Rights Day",
+    "name": "Human Rights Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-04-18",
+    "localName": "Good Friday",
+    "name": "Good Friday",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-04-21",
+    "localName": "Family Day",
+    "name": "Family Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-04-28",
+    "localName": "Freedom Day",
+    "name": "Freedom Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-05-01",
+    "localName": "Workers' Day",
+    "name": "Workers' Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-06-16",
+    "localName": "Youth Day",
+    "name": "Youth Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-08-09",
+    "localName": "National Women's Day",
+    "name": "National Women's Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-09-24",
+    "localName": "Heritage Day",
+    "name": "Heritage Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-12-16",
+    "localName": "Day of Reconciliation",
+    "name": "Day of Reconciliation",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-12-25",
+    "localName": "Christmas Day",
+    "name": "Christmas Day",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  },
+  {
+    "date": "2025-12-26",
+    "localName": "St. Stephen's Day",
+    "name": "Day of Goodwill",
+    "countryCode": "ZA",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ],
+    "countryName": "South Africa"
+  }
+]

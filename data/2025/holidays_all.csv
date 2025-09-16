@@ -1,0 +1,61 @@
+country_code,country_name,date,local_name,name,fixed,global,counties,types
+CA,Canada,2025-01-01,New Year's Day,New Year's Day,False,True,,Public
+CA,Canada,2025-02-17,Louis Riel Day,Louis Riel Day,False,False,CA-MB,Public
+CA,Canada,2025-02-17,Islander Day,Islander Day,False,False,CA-PE,Public
+CA,Canada,2025-02-17,Heritage Day,Heritage Day,False,False,CA-NS,Public
+CA,Canada,2025-02-17,Family Day,Family Day,False,False,CA-AB;CA-BC;CA-NB;CA-ON;CA-SK,Public
+CA,Canada,2025-03-17,Saint Patrick's Day,Saint Patrick's Day,False,False,CA-NL,Public
+CA,Canada,2025-04-18,Good Friday,Good Friday,False,True,,Public
+CA,Canada,2025-04-21,Easter Monday,Easter Monday,False,False,CA-AB;CA-PE,Public
+CA,Canada,2025-04-23,Saint George's Day,Saint George's Day,False,False,CA-NL,Public
+CA,Canada,2025-05-19,National Patriots' Day,National Patriots' Day,False,False,CA-QC,Public
+CA,Canada,2025-05-19,Victoria Day,Victoria Day,False,True,,Public
+CA,Canada,2025-06-21,National Aboriginal Day,National Aboriginal Day,False,False,CA-NT,Public
+CA,Canada,2025-06-24,Discovery Day,Discovery Day,False,False,CA-NL,Public
+CA,Canada,2025-06-24,Fête nationale du Québec,National Holiday,False,False,CA-QC,Public
+CA,Canada,2025-07-01,Canada Day,Canada Day,False,True,,Public
+CA,Canada,2025-07-12,Orangemen's Day,Orangemen's Day,False,False,CA-NL,Public
+CA,Canada,2025-08-04,Civic Holiday,Civic Holiday,False,False,CA-MB;CA-NL;CA-NT;CA-NU;CA-ON,Public
+CA,Canada,2025-08-04,British Columbia Day,British Columbia Day,False,False,CA-BC,Public
+CA,Canada,2025-08-04,Heritage Day,Heritage Day,False,False,CA-AB;CA-YT,Public
+CA,Canada,2025-08-04,New Brunswick Day,New Brunswick Day,False,False,CA-NB,Public
+CA,Canada,2025-08-04,Natal Day,Natal Day,False,False,CA-NS,Public
+CA,Canada,2025-08-04,Saskatchewan Day,Saskatchewan Day,False,False,CA-SK,Public
+CA,Canada,2025-08-18,Gold Cup Parade Day,Gold Cup Parade Day,False,False,CA-PE,Public
+CA,Canada,2025-08-18,Discovery Day,Discovery Day,False,False,CA-YT,Public
+CA,Canada,2025-09-01,Labour Day,Labour Day,False,True,,Public
+CA,Canada,2025-09-30,National Day for Truth and Reconciliation,National Day for Truth and Reconciliation,False,True,,Public
+CA,Canada,2025-10-13,Thanksgiving,Thanksgiving,False,True,,Public
+CA,Canada,2025-11-11,Armistice Day,Armistice Day,False,False,CA-NL,Public
+CA,Canada,2025-11-11,Remembrance Day,Remembrance Day,False,False,CA-AB;CA-BC;CA-NB;CA-NT;CA-NS;CA-NU;CA-PE;CA-SK;CA-YT,Public
+CA,Canada,2025-12-25,Christmas Day,Christmas Day,False,True,,Public
+CA,Canada,2025-12-26,Boxing Day,St. Stephen's Day,False,False,CA-AB;CA-NB;CA-NS;CA-ON;CA-PE,Public
+GB,United Kingdom,2025-01-01,New Year's Day,New Year's Day,False,False,GB-ENG;GB-NIR;GB-SCT;GB-WLS,Public
+GB,United Kingdom,2025-01-02,2 January,2 January,False,False,GB-SCT,Public
+GB,United Kingdom,2025-03-17,Saint Patrick's Day,Saint Patrick's Day,False,False,GB-NIR,Public
+GB,United Kingdom,2025-04-18,Good Friday,Good Friday,False,True,,Public
+GB,United Kingdom,2025-04-21,Easter Monday,Easter Monday,False,False,GB-ENG;GB-WLS;GB-NIR,Public
+GB,United Kingdom,2025-05-05,Early May Bank Holiday,Early May Bank Holiday,False,True,,Public
+GB,United Kingdom,2025-05-26,Spring Bank Holiday,Spring Bank Holiday,False,True,,Public
+GB,United Kingdom,2025-07-14,Battle of the Boyne,Battle of the Boyne,False,False,GB-NIR,Public
+GB,United Kingdom,2025-08-04,Summer Bank Holiday,Summer Bank Holiday,False,False,GB-SCT,Public
+GB,United Kingdom,2025-08-25,Summer Bank Holiday,Summer Bank Holiday,False,False,GB-ENG;GB-WLS;GB-NIR,Public
+GB,United Kingdom,2025-12-01,Saint Andrew's Day,Saint Andrew's Day,False,False,GB-SCT,Public
+GB,United Kingdom,2025-12-25,Christmas Day,Christmas Day,False,True,,Public
+GB,United Kingdom,2025-12-26,Boxing Day,St. Stephen's Day,False,True,,Public
+US,United States,2025-01-01,New Year's Day,New Year's Day,False,True,,Public
+US,United States,2025-01-20,"Martin Luther King, Jr. Day","Martin Luther King, Jr. Day",False,True,,Public
+US,United States,2025-02-12,Lincoln's Birthday,Lincoln's Birthday,False,False,US-CA;US-CT;US-IL;US-IN;US-KY;US-MI;US-NY;US-MO;US-OH,Observance
+US,United States,2025-02-17,Washington's Birthday,Presidents Day,False,True,,Public
+US,United States,2025-04-18,Good Friday,Good Friday,False,False,US-CT;US-DE;US-HI;US-IN;US-KY;US-LA;US-NC;US-ND;US-NJ;US-TN,Public
+US,United States,2025-04-18,Good Friday,Good Friday,False,False,US-TX,Optional
+US,United States,2025-05-08,Truman Day,Truman Day,False,False,US-MO,School;Authorities
+US,United States,2025-05-26,Memorial Day,Memorial Day,False,True,,Public
+US,United States,2025-06-19,Juneteenth National Independence Day,Juneteenth National Independence Day,False,True,,Public
+US,United States,2025-07-04,Independence Day,Independence Day,False,True,,Public
+US,United States,2025-09-01,Labour Day,Labor Day,False,True,,Public
+US,United States,2025-10-13,Columbus Day,Columbus Day,False,False,US-AL;US-AZ;US-CO;US-CT;US-GA;US-ID;US-IL;US-IN;US-IA;US-KS;US-KY;US-LA;US-ME;US-MD;US-MA;US-MS;US-MO;US-MT;US-NE;US-NH;US-NJ;US-NM;US-NY;US-NC;US-OH;US-OK;US-PA;US-RI;US-SC;US-TN;US-UT;US-VA;US-WV,Public
+US,United States,2025-10-13,Indigenous Peoples' Day,Indigenous Peoples' Day,False,False,US-AK;US-AL;US-CA;US-HI;US-IA;US-LA;US-ME;US-MI;US-MN;US-NC;US-NE;US-NM;US-OK;US-OR;US-SD;US-TX;US-VA;US-VT;US-WI,Public
+US,United States,2025-11-11,Veterans Day,Veterans Day,False,True,,Public
+US,United States,2025-11-27,Thanksgiving Day,Thanksgiving Day,False,True,,Public
+US,United States,2025-12-25,Christmas Day,Christmas Day,False,True,,Public
